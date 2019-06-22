@@ -74,7 +74,8 @@ Here you see a example of a **Task**:
     6. Complete the **pull request**
         - if you're done, select ***create pull request***
         - if you're still working on it, select ***create draft pull request***
-   
+
+6. When done, move the **Task** in **Hack'n'Plan** to in Test and assign the **GitHub Reviewer** as **Asignee**   
     ![Pull Request](/Documentation/PullRequest.png)
 
 

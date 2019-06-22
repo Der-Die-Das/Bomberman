@@ -58,7 +58,7 @@ Here you see a example of a **Task**:
     *type of branch* could be:
     - **feat:** if you add a new feature
     - **docs:** if you add some sort of documentation
-    - **chore:** if you do some work 
+    - **chore:** if you do some smaller things that the end user won't really notice 
     - **fix:** if you fix something
 
 3. Start working

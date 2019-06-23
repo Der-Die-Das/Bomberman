@@ -80,3 +80,14 @@ Here you see a example of a **Task**:
 
 
 ## Reviewing a Pull Request
+
+When a **Pull Request** has been assigned to you, you have to review it for **cleanness** and **quality** of the code and if it makes **sense**.
+
+To do that you switch to the ***Files Changed*** tab in the **pull request**.
+
+Now you can go through all the changed files and look at the changes. If you see something that bothers you, move the mouse to that line, press the **+** symbol and write down your thoughts.
+![Suggestion Review](/Documentation/SuggestionReview.png)
+
+If you see something that you think that person did very well feel free to also write a comment on it. It help to not only see the mistakes you made, but also what you did great.
+![Positive Comment](/Documentation/PositiveComment.png)
+
